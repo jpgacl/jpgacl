@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Computer Science undergraduate at [CESAR School](https://www.cesar.school/)
 - 🤝 Open to collaboration on software projects and actively seeking internship opportunities to further develop my skills and contribute to meaningful solutions.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -29,7 +29,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### 🃏 Association Deck
 
