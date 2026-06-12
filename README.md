@@ -63,8 +63,6 @@ https://github.com/analu-dev/projeto-grupo-7
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpgacl&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgacl&layout=compact&theme=tokyonight)
 
 ---
